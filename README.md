@@ -1,2 +1,1 @@
-# WeChatPayDemo
-WeChatPayDemo in Kotlin
+
